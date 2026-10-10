@@ -1,4 +1,4 @@
----
+msnsbsbs---
 manufacturer: samsung
 
 ---
